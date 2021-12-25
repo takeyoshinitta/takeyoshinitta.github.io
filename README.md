@@ -1,2 +1,2 @@
 # takeyoshinitta
-my personal website
+Learning GitHub is fun
